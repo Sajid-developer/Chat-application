@@ -1,2 +1,2 @@
-# Chat-application
+# Chat application
 An awesome looking Chat application.
